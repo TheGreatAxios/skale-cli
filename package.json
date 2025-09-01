@@ -1,6 +1,7 @@
 {
   "name": "@dirtroad/skale-cli",
   "version": "0.1.0",
+  "private": false,
   "description": "SKALE Network CLI Tool for developers and chain owners",
   "scripts": {
   	"dev": "tsup src/index.ts --watch",
